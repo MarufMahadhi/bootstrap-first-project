@@ -1,0 +1,23 @@
+/* Quicksand google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Quicksand", sans-serif;
+}
+.large-text{
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 78px;
+}
+
+.search-btn{
+background-color: #FE8C45;
+color: white;
+}
+.word-color{
+color: #8A47F6;
+}
